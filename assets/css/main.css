@@ -1990,7 +1990,7 @@
 	.button {
 		position: relative;
 		display: inline-block;
-		background: #df7366;
+		background: #a085b0;
 		color: #fff;
 		text-align: center;
 		border-radius: 0.5em;
@@ -2012,7 +2012,7 @@
 		button:hover,
 		.button:hover {
 			color: #fff;
-			background: #ef8376;
+			background: #453e38;
 		}
 
 		input[type="button"].alt,
@@ -2210,6 +2210,7 @@
 		padding: 1.5em 0 1.5em 0;
 		z-index: 1;
 		overflow: hidden;
+		color: #a085b0;
 	}
 
 		#nav > ul {
